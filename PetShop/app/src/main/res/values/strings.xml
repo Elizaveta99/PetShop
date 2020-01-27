@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="feeds">All feeds</string>
+    <string name="producers">All producers</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="find_costs">Find min, max costs of </string>
+    <string name="sort_cost">Sort by cost</string>
+    <string name="sort">Sort by: </string>
+    <string name="feed_title">Feed title</string>
+    <string name="ok">OK</string>
+    <string name="details">Details</string>
+    <string name="back">Back</string>
+    <string name="producer">Producer</string>
+    <string name="feed">Feed</string>
+    <string name="cost">Cost</string>
+    <string name="min_cost">Min cost</string>
+    <string name="max_cost">Max cost</string>
+    <string name="address">Address</string>
+    <string name="function">what</string>
+</resources>
